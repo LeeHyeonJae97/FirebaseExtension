@@ -3,5 +3,4 @@
  
  wrapping functions for some of firebase services for short and readable code and error handling
  
- ### Code
  https://github.com/LeeHyeonJae97/FirebaseExtension/blob/main/Assets/Firebase/FirebaseExtension/Scripts/FirebaseExtension.cs
